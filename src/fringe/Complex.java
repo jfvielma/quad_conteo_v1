@@ -19,7 +19,8 @@ public class Complex {
 //    public static double Complex(int[][] I, int x1, int y1, int x2, int y2) {
 //        double prome;
 //        double varia;
-//        
+//
+//
 //        prome=promedio(I,x1,y1,x2,y2);
 //        varia=varianza(prome, I,x1,y1,x2,y2);
 //        
