@@ -17,6 +17,10 @@ import java.awt.event.*;
 /**
  *
  * @author  Julio Vielma
+ Al inicio solo Dios y yo sabiamos como funcionaba esto.......
+ hoy solo Dios lo sabe......
+ 
+ 
  */
 public class Interferograma extends javax.swing.JFrame {
     //matriz que contendra al interferograma
@@ -420,7 +424,7 @@ public class Interferograma extends javax.swing.JFrame {
     }//GEN-LAST:event_jS_zoomStateChanged
    
     /**
-     * Método que inicia componentes no visuales (CANVAS)
+     * MÃ©todo que inicia componentes no visuales (CANVAS)
      */
     private void initComponents2(){
         //genera la instancia de canvas
